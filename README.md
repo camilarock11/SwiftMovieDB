@@ -12,8 +12,11 @@ Um aplicativo elegante de navegação e busca de filmes, feito com **SwiftUI**, 
 - 🎨 Visual bonito, limpo e adaptado para iPhone
 
 ## 📱 Imagens do App
-
-(Imagem do aplicativo hoje... conforme for avancando no projeto estarei atualizando)
+(Imagem do aplicativo hoje... conforme for avançando no projeto estarei atualizando)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/836bbf41-9122-45c7-a945-ad55fb8e4c3c" width="300"/>
+  <img src="https://github.com/user-attachments/assets/68c177da-bd20-4fd3-8865-621512b4e0ff" width="300"/>
+</p>
 
 ## 🏗️ Arquitetura
 
